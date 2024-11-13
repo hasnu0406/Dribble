@@ -334,7 +334,7 @@ footer {
 ```
 
 ## OUTPUT:
-![Uploading Screenshot 2024-11-13 115635.png…]()
+![Screenshot 2024-11-13 115635](https://github.com/user-attachments/assets/0f70d60d-ae31-42ac-8fa7-86a044548d12)
 
 
 ## RESULT:
